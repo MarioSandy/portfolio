@@ -87,11 +87,18 @@ function App() {
                 >
                   <Instagram />
                 </a>
-                <a href="">
+                <a
+                  href="https://www.facebook.com/mario.sandy.90/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <Facebook />
                 </a>
               </div>
             </div>
+            <p className="absolute top-[270px] right-0 rotate-90 transform text-2xl text-white">
+              Portofolio
+            </p>
           </div>
           <div className="grid grid-cols-1 gap-x-20 gap-y-8 md:grid-cols-1 lg:grid-cols-3">
             <div className="col-span-1">
@@ -122,21 +129,18 @@ function App() {
               </div>
             </div>
             <div className="col-span-1 lg:col-span-2">
-              <p className="mb-3 text-5xl text-white">About me</p>
+              <p className="mb-1 text-5xl text-white">About me</p>
+              <div className="mb-3 h-1 w-12 bg-white"></div>
               <div className="text-justify font-sans text-white">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Vestibulum id lacus cursus, placerat ligula et, mattis elit. Nam
-                aliquam est id metus bibendum convallis. Aenean eu tortor justo.
-                Ut luctus, felis non consequat sodales, libero ligula egestas
-                nisi, nec vehicula felis elit sit amet eros. Nunc eu felis quis
-                elit tempus dapibus vitae sed risus. Mauris tristique elit et
-                arcu malesuada, tincidunt semper nisl dignissim. Suspendisse
-                potenti. Quisque accumsan mauris at arcu elementum, sit amet
-                cursus arcu eleifend. Quisque eget diam vestibulum, facilisis
-                quam vitae, egestas ligula. Pellentesque in mi nec mi iaculis
-                mattis. Nulla facilisi. Vivamus ac tristique massa. In risus
-                metus, dignissim ut est eleifend, pulvinar molestie neque. Etiam
-                sit amet viverra nunc.
+                Hi, Mario here. I'm currently studying as an information system
+                student in Bina Nusantara University. In my spare time, I help
+                my father in building websites for the company he is currently
+                working at. I've also worked as an associate member for a year
+                in one of Bina Nusantara group which is Sokrates System, a group
+                which develop a school information management system
+                application. It gave me a lot of experience working with them. I
+                love designing and building website (both frontend and backend
+                side) therefore it is my dream to become a web developer.
               </div>
               {/* <div className="text-white text-justify font-sans px-4 py-3 bg-white bg-opacity-10 backdrop-blur-sm rounded-lg">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id lacus cursus, placerat ligula et, mattis elit. Nam aliquam est id metus bibendum convallis. Aenean eu tortor justo. Ut luctus, felis non consequat sodales, libero ligula egestas nisi, nec vehicula felis elit sit amet eros. Nunc eu felis quis elit tempus dapibus vitae sed risus. Mauris tristique elit et arcu malesuada, tincidunt semper nisl dignissim. Suspendisse potenti. Quisque accumsan mauris at arcu elementum, sit amet cursus arcu eleifend. Quisque eget diam vestibulum, facilisis quam vitae, egestas ligula. Pellentesque in mi nec mi iaculis mattis. Nulla facilisi. Vivamus ac tristique massa. In risus metus, dignissim ut est eleifend, pulvinar molestie neque. Etiam sit amet viverra nunc.
