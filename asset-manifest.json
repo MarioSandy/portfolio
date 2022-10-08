@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.cec04d34.css",
-    "main.js": "/portfolio/static/js/main.67fe5325.js",
+    "main.css": "/portfolio/static/css/main.022e0f50.css",
+    "main.js": "/portfolio/static/js/main.15eb4f7d.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/BebasNeue-Regular.ttf": "/portfolio/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
     "static/media/me.png": "/portfolio/static/media/me.3713e6a311eeaf1e5cc5.png",
@@ -11,12 +11,12 @@
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.c6f3875c78d2a60dd806578f31be4b8e.svg",
     "static/media/facebook.svg": "/portfolio/static/media/facebook.7ef5bc9c221ca70635e5ea693c3bda34.svg",
     "index.html": "/portfolio/index.html",
-    "main.cec04d34.css.map": "/portfolio/static/css/main.cec04d34.css.map",
-    "main.67fe5325.js.map": "/portfolio/static/js/main.67fe5325.js.map",
+    "main.022e0f50.css.map": "/portfolio/static/css/main.022e0f50.css.map",
+    "main.15eb4f7d.js.map": "/portfolio/static/js/main.15eb4f7d.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cec04d34.css",
-    "static/js/main.67fe5325.js"
+    "static/css/main.022e0f50.css",
+    "static/js/main.15eb4f7d.js"
   ]
 }
