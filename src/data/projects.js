@@ -15,12 +15,16 @@ const projects = [
     status: "finish",
     github_link: "https://github.com/MarioSandy/IT-Div-Test-HTML-CSS-JS",
   },
-  // {
-  //   title: "Kenmaster Warranty Website",
-  //   stack: "React Js, Tailwind CSS, Node Js, Express, MySQL",
-  //   description: `A website that handles kenmaster's products warranty. Users can apply their products warranty by fill out the warranty form in garansi page`,
-  //   preview: "",
-  // },
+  {
+    title: "Video Conference Website (Google Meet Clone)",
+    stack:
+      "React Js, Tailwind CSS, Node Js, Express, PostgreSql, Socket io, Peer js",
+    description: `A website that allows user to meet through internet, User can open their camera, open mic, send messages, and share screen`,
+    preview: "projectVideoConference.png",
+    status: "under development",
+    github_link:
+      "https://github.com/MarioSandy/video-conference-server/tree/master",
+  },
 ];
 
 export default projects;
