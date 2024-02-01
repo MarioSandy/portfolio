@@ -156,15 +156,28 @@ function App() {
                 data-aos-once={true}
                 className="text-justify font-sans text-white"
               >
-                Hi, Mario here. I'm currently studying as an information system
-                student in Bina Nusantara University. In my spare time, I help
-                my father in building websites for the company he is currently
-                working at. I've also worked as an associate member for a year
-                in 2021 in one of Bina Nusantara group which is Sokrates System,
-                a group which develop a school information management system
-                application. It gave me a lot of experience working with them. I
-                love designing and building website (both frontend and backend
-                side) therefore it is my dream to become a web developer.
+                Hello, I'm Mario Sandy, an enthusiastic Information System
+                student at Bina Nusantara University. Currently immersed in the
+                dynamic world of technology, I am gaining valuable insights and
+                hands-on experience through my internship as an application
+                developer at PT Mayora Indah Tbk, an Fast Moving Consumer Goods
+                (FMCG) company. Simultaneously, I am contributing my skills as a
+                part-time Frontend Developer at Technovative, an IT Services and
+                Consulting company. <br />
+                <br />
+                My journey in the realm of technology extends beyond the
+                classroom and professional internships. In 2021, I served as an
+                associate member at Sokrates System, a Bina Nusantara group
+                dedicated to developing a cutting-edge school information
+                management system application. This experience allowed me to
+                thrive in a collaborative environment and reinforced my passion
+                for full-stack web development. <br />
+                <br /> Working alongside talented teams in these diverse roles,
+                I've honed my abilities and acquired a wealth of knowledge in
+                the ever-evolving field of web development. I am excited to
+                leverage these experiences to contribute innovative solutions to
+                future projects and continue my growth as a well-rounded
+                full-stack developer professional.
               </div>
             </div>
           </div>

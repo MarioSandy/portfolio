@@ -12,6 +12,10 @@ const skillsets = [
     tooltip: "Javascript",
   },
   {
+    img: "java.png",
+    tooltip: "Java",
+  },
+  {
     img: "typescript.png",
     tooltip: "Typescript",
   },
@@ -34,6 +38,10 @@ const skillsets = [
   {
     img: "nodejs.png",
     tooltip: "Node Js",
+  },
+  {
+    img: "spring.png",
+    tooltip: "Java Spring",
   },
 ];
 

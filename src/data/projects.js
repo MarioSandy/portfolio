@@ -3,9 +3,9 @@ const projects = [
     title: "Kenmaster Warranty Website",
     stack: "React Js, Tailwind CSS, Node Js, Express, MySQL",
     description: `A website that handles kenmaster's products warranty. Users can apply their products warranty by fill out the warranty form in garansi page.`,
-    preview: "projectKenmasterGaransi.png",
+    preview: "vtmwarranty.png",
     status: "under development",
-    github_link: "",
+    github_link: "https://vtmwarranty.com/login",
   },
   {
     title: "IT Division Test",
