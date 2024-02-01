@@ -1,10 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c0121a72.css",
-    "main.js": "/portfolio/static/js/main.eac76dfc.js",
+    "main.js": "/portfolio/static/js/main.5ee0c319.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/projectItdivHtmlCssJs.png": "/portfolio/static/media/projectItdivHtmlCssJs.34d1c98c5416b496f303.png",
     "static/media/projectVideoConference.png": "/portfolio/static/media/projectVideoConference.4daae7a6e2c9094a01be.png",
+    "static/media/vtmwarranty.png": "/portfolio/static/media/vtmwarranty.0772b33fd5d48dc2abfe.png",
+    "static/media/java.png": "/portfolio/static/media/java.e8da1f2153715a24f623.png",
+    "static/media/spring.png": "/portfolio/static/media/spring.00c14c07a6ca72f02607.png",
     "static/media/BebasNeue-Regular.ttf": "/portfolio/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
     "static/media/projectKenmasterGaransi.png": "/portfolio/static/media/projectKenmasterGaransi.720002f4585bd5a7dea2.png",
     "static/media/me.png": "/portfolio/static/media/me.3713e6a311eeaf1e5cc5.png",
@@ -18,11 +21,11 @@
     "static/media/link-out.svg": "/portfolio/static/media/link-out.b8d2eb3a45124e2a9dedeff7603463be.svg",
     "static/media/scroll-top.svg": "/portfolio/static/media/scroll-top.01f54f45c38ebb04a4afa77a774edf02.svg",
     "main.c0121a72.css.map": "/portfolio/static/css/main.c0121a72.css.map",
-    "main.eac76dfc.js.map": "/portfolio/static/js/main.eac76dfc.js.map",
+    "main.5ee0c319.js.map": "/portfolio/static/js/main.5ee0c319.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0121a72.css",
-    "static/js/main.eac76dfc.js"
+    "static/js/main.5ee0c319.js"
   ]
 }
