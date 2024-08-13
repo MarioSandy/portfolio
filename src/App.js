@@ -156,14 +156,32 @@ function App() {
                 data-aos-once={true}
                 className="text-justify font-sans text-white"
               >
-                Hello, I'm Mario Sandy, an enthusiastic Information System
-                student at Bina Nusantara University. Currently immersed in the
-                dynamic world of technology, I am gaining valuable insights and
-                hands-on experience through my internship as an application
-                developer at PT Mayora Indah Tbk, an Fast Moving Consumer Goods
-                (FMCG) company. Simultaneously, I am contributing my skills as a
-                part-time Frontend Developer at Technovative, an IT Services and
-                Consulting company. <br />
+                I'm Mario Sandy, an enthusiastic Information Systems student at
+                Bina Nusantara University, where I am building a solid
+                foundation in technology and business systems. I'm currently
+                gaining hands-on experience through an internship as an
+                application developer at PT Mayora Indah Tbk, a leading FMCG
+                company. In this role, I build web applications using Java
+                Spring, Bootstrap, Node.js, Oracle Database, and PostgreSQL. I
+                collaborate closely with IT developers and users to develop
+                application modules, and I interact with multiple applications,
+                connecting them through Apache Kafka.
+                <br />
+                <br />
+                Simultaneously, I work part-time as a Frontend Developer at
+                Technovative, an IT Services and Consulting company, where I
+                design and implement user-friendly interfaces that enhance user
+                experience. Recently, I completed an enriching internship at PT
+                Nusa Kreasi Cemerlang, a software solution company under the
+                Salim Group. In this role, I enhanced a microservice supply
+                chain application with over 5 services using Java Spring Boot,
+                Kafka, and Google Cloud Platform services. I collaborated with
+                multiple third-party applications and actively participated in
+                production support, handling tasks such as checking logs and
+                applying hotfixes. This experience significantly sharpened my
+                backend development skills and deepened my understanding of
+                microservices architecture.
+                <br />
                 <br />
                 My journey in the realm of technology extends beyond the
                 classroom and professional internships. In 2021, I served as an
@@ -171,13 +189,15 @@ function App() {
                 dedicated to developing a cutting-edge school information
                 management system application. This experience allowed me to
                 thrive in a collaborative environment and reinforced my passion
-                for full-stack web development. <br />
-                <br /> Working alongside talented teams in these diverse roles,
-                I've honed my abilities and acquired a wealth of knowledge in
-                the ever-evolving field of web development. I am excited to
-                leverage these experiences to contribute innovative solutions to
-                future projects and continue my growth as a well-rounded
-                full-stack developer professional.
+                for full-stack web development.
+                <br />
+                <br />
+                Working alongside talented teams in these diverse roles, I've
+                honed my abilities and acquired a wealth of knowledge in the
+                ever-evolving field of web development. I am excited to leverage
+                these experiences to contribute innovative solutions to future
+                projects and continue my growth as a well-rounded full-stack
+                developer professional.
               </div>
             </div>
           </div>
