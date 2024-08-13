@@ -1,31 +1,32 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c0121a72.css",
-    "main.js": "/portfolio/static/js/main.5ee0c319.js",
+    "main.js": "/portfolio/static/js/main.80e65d5d.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/projectItdivHtmlCssJs.png": "/portfolio/static/media/projectItdivHtmlCssJs.34d1c98c5416b496f303.png",
     "static/media/projectVideoConference.png": "/portfolio/static/media/projectVideoConference.4daae7a6e2c9094a01be.png",
     "static/media/vtmwarranty.png": "/portfolio/static/media/vtmwarranty.0772b33fd5d48dc2abfe.png",
     "static/media/java.png": "/portfolio/static/media/java.e8da1f2153715a24f623.png",
+    "static/media/springboot.png": "/portfolio/static/media/springboot.ee7589e285cd1a399457.png",
     "static/media/spring.png": "/portfolio/static/media/spring.00c14c07a6ca72f02607.png",
     "static/media/BebasNeue-Regular.ttf": "/portfolio/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
     "static/media/projectKenmasterGaransi.png": "/portfolio/static/media/projectKenmasterGaransi.720002f4585bd5a7dea2.png",
     "static/media/me.png": "/portfolio/static/media/me.3713e6a311eeaf1e5cc5.png",
     "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.ff4ba441ec3324145fde.png",
     "static/media/reactjs.png": "/portfolio/static/media/reactjs.396536ced87da4ba25b4.png",
-    "static/media/instagram.svg": "/portfolio/static/media/instagram.6fb76cd18b8e3f98feca49d9c43096ee.svg",
-    "static/media/github.svg": "/portfolio/static/media/github.7a87f172376e64c9841090c2636cfe3b.svg",
-    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.c6f3875c78d2a60dd806578f31be4b8e.svg",
-    "static/media/facebook.svg": "/portfolio/static/media/facebook.7ef5bc9c221ca70635e5ea693c3bda34.svg",
+    "static/media/instagram.svg": "/portfolio/static/media/instagram.b97e78fabc47563d6c125f0f03c3fc41.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.c42db2af44c130c550b517d3c0a44d09.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.0764c36adfb52b0c495bef27c5f1053c.svg",
+    "static/media/facebook.svg": "/portfolio/static/media/facebook.15019c3f6c77d8d14316ab6a8e1a765a.svg",
     "index.html": "/portfolio/index.html",
-    "static/media/link-out.svg": "/portfolio/static/media/link-out.b8d2eb3a45124e2a9dedeff7603463be.svg",
-    "static/media/scroll-top.svg": "/portfolio/static/media/scroll-top.01f54f45c38ebb04a4afa77a774edf02.svg",
+    "static/media/link-out.svg": "/portfolio/static/media/link-out.c27c3402c39f6dab7ba1e4a5a86fe0f2.svg",
+    "static/media/scroll-top.svg": "/portfolio/static/media/scroll-top.fa63f2fdf243546e8e00ea676876eccb.svg",
     "main.c0121a72.css.map": "/portfolio/static/css/main.c0121a72.css.map",
-    "main.5ee0c319.js.map": "/portfolio/static/js/main.5ee0c319.js.map",
+    "main.80e65d5d.js.map": "/portfolio/static/js/main.80e65d5d.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0121a72.css",
-    "static/js/main.5ee0c319.js"
+    "static/js/main.80e65d5d.js"
   ]
 }
