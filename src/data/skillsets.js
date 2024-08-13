@@ -43,6 +43,10 @@ const skillsets = [
     img: "spring.png",
     tooltip: "Java Spring",
   },
+  {
+    img: "springboot.png",
+    tooltip: "Spring Boot",
+  },
 ];
 
 export default skillsets;
